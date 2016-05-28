@@ -1,2 +1,3 @@
 # py_portfolio
-Various python scripts and programs 
+
+A selection of my personal python projects. 
